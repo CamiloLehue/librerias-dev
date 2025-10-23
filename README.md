@@ -6,7 +6,7 @@
 ## Librerias de ReactJs 
 
 - Mi TOP bibliotecas para React.js este 2025
-- Router → Wouter
+- Router → Wouter - React Route
 - Gráficas → Nivo
 - i18n → react-i18next
 - Iconos → Tabler Icons - ReactIcons
