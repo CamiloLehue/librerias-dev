@@ -22,6 +22,7 @@
 - Componentes UI → Shadcn UI
 - Data Fetching → Tanstack Query
 - Testing → Vitest + testing-library
+- Capturar errores de users → Sentry
 
 
 ## Authors
