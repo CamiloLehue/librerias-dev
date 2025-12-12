@@ -23,6 +23,8 @@
 - Data Fetching → Tanstack Query
 - Testing → Vitest + testing-library
 - Capturar errores de users → Sentry
+- Documentación → Code Wiki (Google)
+- Correos → React Email
 
 
 ## Authors
