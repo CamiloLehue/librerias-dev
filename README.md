@@ -25,6 +25,9 @@
 - Capturar errores de users → Sentry
 - Documentación → Code Wiki (Google)
 - Correos → React Email
+- Dropdowns → slim-select
+- Spoilers → spoilerjs
+- PDFs → ﹫pdfslick/react
 
 
 ## Authors
